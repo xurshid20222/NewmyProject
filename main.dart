@@ -1,5 +1,5 @@
 import 'dart:io';
-
+///zo'r bajarilgan 
 //aaaaaaaaaaaaaaaaaaaaaaaaa
 
 import 'dart:math';
